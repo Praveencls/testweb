@@ -1,0 +1,6 @@
+E:\GitHomeDemo\testweb\WebSite\WebSite\bin\WebSite.dll.config
+E:\GitHomeDemo\testweb\WebSite\WebSite\bin\WebSite.dll
+E:\GitHomeDemo\testweb\WebSite\WebSite\bin\WebSite.pdb
+E:\GitHomeDemo\testweb\WebSite\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
+E:\GitHomeDemo\testweb\WebSite\WebSite\obj\Debug\WebSite.dll
+E:\GitHomeDemo\testweb\WebSite\WebSite\obj\Debug\WebSite.pdb
