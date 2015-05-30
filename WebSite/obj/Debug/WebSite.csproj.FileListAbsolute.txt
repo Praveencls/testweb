@@ -4,3 +4,9 @@ E:\GitHomeDemo\testweb\WebSite\WebSite\bin\WebSite.pdb
 E:\GitHomeDemo\testweb\WebSite\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
 E:\GitHomeDemo\testweb\WebSite\WebSite\obj\Debug\WebSite.dll
 E:\GitHomeDemo\testweb\WebSite\WebSite\obj\Debug\WebSite.pdb
+D:\gitrepository\trunk\WebSite\bin\WebSite.dll.config
+D:\gitrepository\trunk\WebSite\bin\WebSite.dll
+D:\gitrepository\trunk\WebSite\bin\WebSite.pdb
+D:\gitrepository\trunk\WebSite\obj\Debug\WebSite.csprojResolveAssemblyReference.cache
+D:\gitrepository\trunk\WebSite\obj\Debug\WebSite.dll
+D:\gitrepository\trunk\WebSite\obj\Debug\WebSite.pdb
